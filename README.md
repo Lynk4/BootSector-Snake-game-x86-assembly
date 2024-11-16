@@ -1,1 +1,4 @@
-# BootSector-Snake-game-x86-assembly
+# BootSector Snake Game in x86 assembly
+
+---
+
